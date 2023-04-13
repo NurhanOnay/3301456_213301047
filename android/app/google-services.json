@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1013301469144",
+    "project_id": "signin-e1",
+    "storage_bucket": "signin-e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013301469144:android:3f32cc848a3780a3965cad",
+        "android_client_info": {
+          "package_name": "com.example.vize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013301469144-r48dtq0pmpfoh71i57sdelqdvcj8vrg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrQFxyMje8cbCmlhR1Rae0ufAFpmiRF-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013301469144-r48dtq0pmpfoh71i57sdelqdvcj8vrg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
