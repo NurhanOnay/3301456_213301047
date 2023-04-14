@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:vize/chat/kisi.dart';
 
 class yeniKayit extends StatelessWidget {
   @override
@@ -74,7 +75,11 @@ class yeniKayit extends StatelessWidget {
                 width: double.infinity,
                 height: 40,
                 child: ElevatedButton(
-                  onPressed: () {},
+                  onPressed: () {
+                    Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context)=>Kaydet()));
+                  },
                   child: Text("Kaydet"),
                   style: ElevatedButton.styleFrom(
                     textStyle: TextStyle(
